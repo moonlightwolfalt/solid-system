@@ -1,0 +1,1 @@
+import{Qt as e}from"./packages/BnCQYXHo.js";import{Ai as t,Mi as n,Ni as r,Pi as i,ji as a}from"./BoTM2IF7.js";export{t as bumpTranslationRevision,a as getTranslation,n as hasTranslationKey,e as i18next,r as loadNamespace,i as t};
